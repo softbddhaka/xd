@@ -1,0 +1,782 @@
+@media (min-width: 320px) and (max-width: 479.98px){ 
+    .holding .certi_main {
+        padding: 50px 10px;
+    }   
+    .certificate .certi_main {
+        padding: 50px 10px;
+    }
+    .trade .certi_main {
+        padding: 50px 10px;
+    }
+/* Success */
+.holding_verify .verify_main {
+	padding: 50px 0px;
+}
+.holding_verify .verify_main .img-center{
+text-align: center !important;
+padding: 20px 0;
+}
+.holding_verify .verify_main .certimiddle h3 {
+	font-size: 13px;
+}
+.holding_verify .verify_main .certibody td h5 {
+	color: #171717;
+	font-size: 13px;
+	font-weight: 500;
+}
+/* talika */
+.oard_list .list_main .list_inner {
+	width: 90%;
+}
+#header .nav .navbar_drop .offcan_menu ul li:hover .sub_down {
+	top: 46px;
+	left: -20px;
+    background-color:white;
+}
+/* sid enavbar */
+.side_nav_bar{
+    display: none;
+}
+/* login */
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form .login_header img {
+	width: 150px;
+}
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form .input_div {
+	width: 90%;
+}
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form .login_button {
+	width: 90%;
+	margin: 0 auto;
+}
+/*  header part*/
+
+#header .nav .navbar_item .nav_right .nav_right_login {
+    display: none;
+}
+#header .nav .navbar_drop .nav_right_login ul li a {
+	display: none;
+}
+   #header .header .header_right {
+	 display: none;
+}
+#header .nav .navbar_item .nav_left .nav_right_login ul li a {
+	padding: 14px 8px !important;
+	font-size: 13px !important;
+}  
+#header .nav .navbar_item .nav_right .nav_right_image img {
+	display: none;
+}
+    
+#header .nav .navbar_item .nav_right .navbar_icons {
+	display: none;
+}    
+#header .nav .navbar_item .nav_left a span {
+	display: none;
+}
+#header .nav .navbar_item .nav_right .navbar_modal a i {
+	font-size: 22px;
+}   
+#header .nav .navbar_item .nav_left .nav_right_login ul li a {
+	padding: 14px 18px;
+	font-size: 14px;
+} 
+
+#button{
+    bottom: 25px;
+ 
+}
+
+/* BANNER PART */
+.banner_slider{
+    padding: 95px 0 !important;
+}
+.banner_slider_2{
+
+    padding: 95px 0 !important;
+}
+.banner_slider_3{
+
+    padding: 95px 0 !important;
+}
+.banner_slider_4{
+
+    padding: 95px 0 !important;
+}   
+#banner .banner .prev{
+	 display: none !important;
+}    
+#banner .banner .next{
+    display: none !important;
+}  
+/* side navbar */
+.side_nav_bar .sidenav a:hover {
+    right: -50px;
+}
+
+
+/*marque part  */
+    .marque marquee {
+        font-size: 13px;
+    }   
+    #linker .linker .link_item {
+        padding: 35px 0;
+    } 
+
+
+/* off can */
+    
+    #ofcanvaa .offcanvas-body .offcan_menu ul li a {
+        font-size: 15px;
+    }
+
+
+/* linker part */
+    #linker .linker .linker_text {
+        border-right: 1px solid transparent;
+    }
+    #linker .linker .link_item .linker_box .linker_box_item {
+        height: 130px;
+        width: 130px;
+        line-height: 140px !important;
+
+    }
+    #linker .linker .link_item .linker_box .linker_box_item a {
+        font-size: 18px;
+    }
+
+
+/* Counter part */
+    #counter .counter .counter_main .counter_item {
+        padding: 20px 0;
+    }
+    #counter .counter .counter_main {
+        padding: 10px 0;
+    }
+/* Man Part satrt  */
+#man .man .man_item {
+    padding: 0px 0;
+}
+    
+/* card */
+    #card .card .card_header h3 {
+        font-size: 24px;
+    }
+    #card .card .card_main .card_text h3 {
+        font-size: 14px;
+    }
+    #card .card .card_main .card_text h4 {
+        font-size: 14px;
+        padding: 5px 0;
+    }
+    #card .card .card_main .card_text h5 {
+        font-size: 14px;
+    }
+    .worker_header.text-center.margin_top {
+        margin-top: 40px;
+    }
+
+
+/*  banner two */
+    
+    #banner_two .banner_head h3 {
+        font-size: 15px;
+        padding: 10px 0;
+    }
+    #banner_two .banner_two_main img {
+        width: 100%;
+        height: 380px;
+    }
+    
+    
+/* card tow */
+
+#card_two .card_two_main {
+    margin-top: 20px;
+} 
+
+
+ /* contact part */
+    #team .team_main .team_part .team_text h4 {
+        font-size: 13px;
+
+    }
+
+
+/* footer */
+    #footer .footer {
+        background-color: #1d3a7c;
+        padding: 40px 0;
+    }
+    #footer .footer .footer_two ul li a {
+        color: #f5f5f5;
+        font-size: 15px;
+        font-weight: 500;
+    }
+    #footer .footer .footer_three ul li img {
+        width: 100px;
+    }
+    #footer .footer .footer_three .number_img img {
+        width: 90px;
+        margin: 10px 5px;
+    }
+/* worker section */
+#worker .worker .announce_list .worker_item table td strong {
+	font-size: 15px;
+	padding-left: 0px;
+}
+#worker .worker .announce_list .worker_item table td span {
+	font-size: 12px;
+} 
+#worker .worker .announce_list .worker_item table .item_img {
+	width: 0px;
+}
+#worker .worker .announce_list .worker_item table .item_img img {
+	width: 100%;
+} 
+#worker .worker .announce_list .nav .nav-item .nav-link {
+	font-size: 15px;
+
+}
+
+/* modal probelm */
+#modal .modal .modal-dialog .modal-content .modal-header .modal-title {
+	font-size: 22px;
+}
+#modal .modal .modal-dialog .modal-content .modal-header .modal-title span {
+	font-size: 16px;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .subject label {
+	font-size: 14px;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .self_details label {
+	font-size: 14px;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .word_no label {
+	font-size: 14px;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .submit_button a {
+	font-size: 16px;
+}
+/* problem */
+#import .import .import_left {
+	padding-top: 20px;
+}
+/* registration */
+.registration .nav_tab .nav {
+	padding: 0 0px;
+}
+.registration .nav_tab .nav .nav-item .nav-link {
+	margin-top: 10px;
+}
+.registration .nav_tab .tab-content .form_main .form_body {
+	padding: 30px 10px;
+}
+.registration .form_main .form_body form label {
+	padding: 10px 15px;
+}
+}
+@media (min-width: 480px) and (max-width: 575.98px){
+    .holding .certi_main {
+        padding: 50px 20px;
+    }   
+    .certificate .certi_main {
+        padding: 50px 20px;
+    }
+    .trade .certi_main {
+        padding: 50px 20px;
+    }
+/* Success */
+.holding_verify .verify_main {
+	padding: 50px 0px;
+}
+.holding_verify .verify_main .img-center{
+text-align: center !important;
+padding: 20px 0;
+}
+.holding_verify .verify_main .certimiddle h3 {
+	font-size: 14px;
+}
+    /* talika */
+.oard_list .list_main .list_inner {
+width: 85%;
+}
+#header .nav .navbar_drop .offcan_menu ul li:hover .sub_down {
+	top: 46px;
+	left: -20px;
+    background-color:white;
+}
+/* registration */
+.registration .nav_tab .nav {
+	padding: 0 0px;
+}
+.registration .nav_tab .nav .nav-item .nav-link {
+	margin-top: 10px;
+}
+.registration .nav_tab .tab-content .form_main .form_body {
+	padding: 30px 10px;
+}
+.registration .form_main .form_body form label {
+	padding: 10px 15px;
+}
+    /* problem */
+#import .import .import_left {
+	padding-top: 20px;
+}
+    .side_nav_bar{
+        display: none;
+    }
+        
+        #button{
+            bottom: 25px;
+         
+        }
+
+ /* login */
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form .login_header img {
+	width: 160px;
+}
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form .input_div {
+	width: 70%;
+}
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form .login_button {
+	width: 70%;
+}
+
+        /*  header part*/
+        #header .header .header_right {
+          display: none;
+     }
+     #header .nav .navbar_item .nav_right .nav_right_login ul li a {
+        display: none;
+    } 
+    #header .nav .navbar_drop .nav_right_login ul li {
+        padding: 16px 5px;
+    }
+     #header .nav .navbar_item .nav_right .nav_right_image img {
+         display: none;
+     }
+         
+     #header .nav .navbar_item .nav_right .navbar_icons {
+         display: none;
+     }    
+     #header .nav .navbar_item .nav_left a span {
+         display: none;
+     }
+     #header .nav .navbar_item .nav_right .navbar_modal a i {
+         font-size: 22px;
+     }    
+         /* BANNER PART */
+     .banner_slider{
+         padding: 150px 0 !important;
+     }
+     .banner_slider_2{
+     
+         padding: 150px 0 !important;
+     }
+     .banner_slider_3{
+     
+         padding: 150px 0 !important;
+     }
+     .banner_slider_4{
+     
+         padding: 150px 0 !important;
+     }   
+     #banner .banner .prev{
+          display: none !important;
+     }    
+     #banner .banner .next{
+         display: none !important;
+     }  
+         /*marque part  */
+         .marque marquee {
+             font-size: 13px;
+         }   
+         
+         /* off can */
+         
+         #ofcanvaa .offcanvas-body .offcan_menu ul li a {
+             font-size: 15px;
+         }
+         /* linker part */
+         #linker .linker .linker_text {
+             border-right: 1px solid transparent;
+         }
+         /* Counter part */
+         #counter .counter .counter_main .counter_item {
+             padding: 20px 0;
+         }
+         
+         #counter .counter .counter_main {
+            padding: 10px 0;
+        }
+         
+        #worker .worker .announce_list .worker_item table .item_img img {
+            width: 100%;
+        }
+         /* card */
+         #card .card .card_main .card_text h3 {
+             font-size: 14px;
+         }
+         #card .card .card_main .card_text h4 {
+             font-size: 14px;
+             padding: 5px 0;
+         }
+         #card .card .card_main .card_text h5 {
+             font-size: 14px;
+         }
+         /*  banner two */
+         
+         #banner_two .banner_head h3 {
+             font-size: 15px;
+             padding: 10px 0;
+         }
+         
+         #card_two .card_two_main {
+             margin-top: 20px;
+         } 
+         
+         iframe {
+             border: 0;
+             height: 300px !important;
+         }
+        #button{
+            bottom: 25px;
+         
+        }
+
+        #footer .footer {
+            background-color: #1d3a7c;
+            padding: 40px 0;
+        }       
+         
+}
+@media (min-width: 576px) and (max-width: 767.98px){
+    .holding .certi_main {
+        padding: 50px 30px;
+    }   
+    .certificate .certi_main {
+        padding: 50px 50px;
+    }
+    .trade .certi_main {
+        padding: 50px 50px;
+    }
+/* Success */
+.holding_verify .verify_main {
+	padding: 50px 0px;
+}
+.holding_verify .verify_main .img-center{
+text-align: center !important;
+padding: 20px 0;
+}
+.holding_verify .verify_main .certimiddle h3 {
+	font-size: 16px;
+}
+    /* talika */
+    .oard_list .list_main .list_inner {
+        width: 75%;
+        }
+        #header .nav .navbar_drop .offcan_menu ul li:hover .sub_down {
+            top: 46px;
+            left: -20px;
+            background-color:white;
+        }
+/* registration */
+.registration .nav_tab .nav {
+	padding: 0 0px;
+}
+.registration .nav_tab .nav .nav-item .nav-link {
+	margin-top: 10px;
+}
+.registration .nav_tab .tab-content .form_main .form_body {
+	padding: 30px 10px;
+}
+.registration .form_main .form_body form label {
+	padding: 10px 15px;
+}
+    /* problem */
+#import .import .import_left {
+	padding-top: 20px;
+}
+            /* login */
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form .login_header img {
+	width: 160px;
+}
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form .input_div {
+	width: 70%;
+}
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form .login_button {
+	width: 70%;
+}
+    .side_nav_bar{
+        display: none;
+    }
+        
+        #button{
+            bottom: 25px;        
+        }
+        /*  header part*/
+        #header .header .header_right {
+          display: none;
+     }
+         
+     #header .nav .navbar_item .nav_right .nav_right_image img {
+         display: none;
+     }
+         
+     #header .nav .navbar_item .nav_left a span {
+         display: none;
+     }
+     #header .nav .navbar_item .nav_right .navbar_modal a i {
+         font-size: 22px;
+     }  
+     #header .nav .navbar_drop .nav_right_login {
+        display: none;
+    }  
+         /* BANNER PART */
+     .banner_slider{
+         padding: 200px 0 !important;
+     }
+     .banner_slider_2{
+     
+         padding: 200px 0 !important;
+     }
+     .banner_slider_3{
+     
+         padding: 200px 0 !important;
+     }
+     .banner_slider_4{
+     
+         padding:200px 0 !important;
+     }   
+     #banner .banner .prev{
+          display: none !important;
+     }    
+     #banner .banner .next{
+         display: none !important;
+     }  
+         /*marque part  */
+         .marque marquee {
+             font-size: 13px;
+         }   
+         
+         /* off can */
+         
+         #ofcanvaa .offcanvas-body .offcan_menu ul li a {
+             font-size: 15px;
+         }
+         /* linker part */
+         #linker .linker .linker_text {
+             border-right: 1px solid transparent;
+         }
+         /* Counter part */
+         #counter .counter .counter_main .counter_item {
+             padding: 20px 0;
+         }
+         
+         
+         
+         /* card */
+         #card .card .card_main .card_text h3 {
+             font-size: 14px;
+         }
+         #card .card .card_main .card_text h4 {
+             font-size: 14px;
+             padding: 5px 0;
+         }
+         #card .card .card_main .card_text h5 {
+             font-size: 14px;
+         }
+         /*  banner two */
+         
+         #banner_two .banner_head h3 {
+             font-size: 15px;
+             padding: 10px 0;
+         }
+         
+         #card_two .card_two_main {
+             margin-top: 20px;
+         } 
+         
+         iframe {
+             border: 0;
+             height: 300px !important;
+         }
+        #button{
+            bottom: 25px;
+         
+        }
+        #footer .footer .footer_three .number_img img {
+            width: 80px;
+            margin: 10px 5px;
+        }
+
+        #linker .linker .link_item .linker_box .linker_box_item {
+            height: 170px;
+            width: 160px;
+            line-height: 170px;
+        }
+         
+         
+}
+
+@media (min-width: 768px) and (max-width: 991.98px){
+/* Success */
+.holding_verify .verify_main {
+	padding: 50px 0px;
+}
+
+.holding_verify .verify_main .certimiddle h3 {
+	font-size: 16px;
+}    
+    .oard_list .list_main .list_inner {
+        width: 60%;
+        }
+    /* problem */
+#import .import .import_left {
+	padding-top: 40px;
+}
+    .side_nav_bar{
+        display: none;
+    }
+        
+        #button{
+            bottom: 25px;
+         
+        }
+        /*  header part*/
+        #header .header .header_right {
+          display: none;
+     }
+         
+     #header .nav .navbar_item .nav_right .nav_right_image img {
+         display: none;
+     }
+     #header .nav .navbar_item .nav_left a span {
+         display: none;
+     }
+     #header .nav .navbar_item .nav_right .navbar_modal a i {
+         font-size: 22px;
+     }    
+         /* BANNER PART */
+     .banner_slider{
+         padding: 200px 0 !important;
+     }
+     .banner_slider_2{
+     
+         padding: 200px 0 !important;
+     }
+     .banner_slider_3{
+     
+         padding: 200px 0 !important;
+     }
+     .banner_slider_4{
+     
+         padding:200px 0 !important;
+     }   
+     #banner .banner .prev{
+          display: none !important;
+     }    
+     #banner .banner .next{
+         display: none !important;
+     }  
+         /*marque part  */
+         .marque marquee {
+             font-size: 13px;
+         }   
+         
+         /* off can */
+         
+         #ofcanvaa .offcanvas-body .offcan_menu ul li a {
+             font-size: 15px;
+         }
+         /* linker part */
+         #linker .linker .linker_text {
+             border-right: 1px solid transparent;
+         }
+         /* Counter part */
+         #counter .counter .counter_main .counter_item {
+             padding: 20px 0;
+         }
+         
+         
+         
+         /* card */
+         #card .card .card_main .card_text h3 {
+             font-size: 14px;
+         }
+         #card .card .card_main .card_text h4 {
+             font-size: 14px;
+             padding: 5px 0;
+         }
+         #card .card .card_main .card_text h5 {
+             font-size: 14px;
+         }
+         /*  banner two */
+         
+         #banner_two .banner_head h3 {
+             font-size: 15px;
+             padding: 10px 0;
+         }
+         
+         #card_two .card_two_main {
+             margin-top: 20px;
+         } 
+         
+         iframe {
+             border: 0;
+             height: 300px !important;
+         }
+         
+
+
+        #button{
+            bottom: 25px;
+         
+        }
+        #footer .footer .footer_three .number_img img {
+            width: 80px;
+            margin: 10px 5px;
+        }
+
+/* button slider */
+         
+#card .card .prevs {
+	left: 44%;
+
+}   
+
+#card .card .nexts {
+	right: 44%;
+}
+#card_two .prevs {
+	left: 44%;
+
+}
+#card_two .nexts {
+	right: 44%;
+}
+
+#location .location .location_main .map .serch_icons {
+	 padding: 20px 0;
+}
+
+/* registration */
+.registration .nav_tab .nav {
+	padding: 0 0px;
+}
+.registration .nav_tab .nav .nav-item .nav-link {
+	margin-top: 10px;
+}
+.registration .nav_tab .tab-content .form_main .form_body {
+	padding: 30px 10px;
+}
+.registration .form_main .form_body form label {
+	padding: 10px 15px;
+}
+
+
+
+
+
+
+}
